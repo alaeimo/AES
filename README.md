@@ -1,4 +1,4 @@
-![alt text](https://github.com/alaeimo/AES/img/AES-Overview.png?raw=true)
+![alt text](https://github.com/alaeimo/AES/blob/master/img/AES-Overview.png)
 
 # What is this?
 
