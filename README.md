@@ -26,14 +26,14 @@ It supports:
 ---
 
 ## 🚀 Features
-
+```
 ✔ Pure Python, no external crypto libs
 ✔ Supports 3 AES key sizes
 ✔ Symmetric block encryption (ECB)
 ✔ Easily modifiable & extensible
 ✔ Includes test input/output files
 ✔ Jupyter notebook for exploration
-
+```
 ---
 
 ## 📦 Installation
