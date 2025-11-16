@@ -117,6 +117,5 @@ You are free to use, modify, and distribute it.
 ## 👤 Author
 
 **Mohammad Alaei**
-Mohammad Alaei AI Researcher & Computer Engineer 
-🔗 Website: [https://alaeimo.ir](https://alaeimo.ir)
-🔗 GitHub: [https://github.com/alaeimo](https://github.com/alaeimo)
+AI Researcher & Computer Engineer 
+🔗 [https://alaeimo.ir](https://alaeimo.ir) 
